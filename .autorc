@@ -1,0 +1,10 @@
+{
+  "repo": "truffle-shuffle",
+  "owner": "EricFalkenberg",
+  "plugins": [
+    "conventional-commits"
+  ],
+  "scripts": {
+    "release": "auto shipit"
+  }
+}
